@@ -6,7 +6,7 @@
 
 	<div id="intro_container">
 		<p id="intro_name">Martin Pusar</p>
-		<p id="intro_subscript">Izdelava spletnih strani | <i>spletna stran je še v izdelavi</i></p>
+		<p id="intro_subscript">Izdelava spletnih strani | <i style="font-size: 70%"><u>spletna stran je še v izdelavi</u></i></p>
 	</div>
 
 	<img src="media/vector1.svg" alt="Vector" id="landing_vector">
@@ -14,16 +14,19 @@
 
 
 <section id="services_section">
-	<h1>Kaj delam</h1>
+	<h1>Kaj potrebujete?</h1>
 	<div class="services-container">
 		<div id="left_service" class="not-active">
-			<h2>WordPress</h2>
-			<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam debitis sapiente omnis delectus nesciunt ex veritatis assumenda. Cum, quisquam enim.</p>
+			<h2>WORDPRESS</h2>
+			<ol class="no-margin">
+				<li><b> &nbsp; Celotne spletne strani:</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, porro.</li>
+				<li><b> &nbsp; WordPress teme po meri:</b> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti, rerum!</li>
+			</ol>
 		</div>
 
 		<div id="right_service" class="not-active">
 			<h2>HTML - CSS - JavaScript</h2>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio ducimus hic magni minus praesentium, ipsum veniam ipsa similique cum inventore!</p>
+			<p>Spletne strani osredotočene na dizajn, s popolnih nadzorom nad vsebino vsebino in fukncionalnostjo.</p>
 		</div>
 	</div>
 
