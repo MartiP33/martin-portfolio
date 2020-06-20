@@ -2,7 +2,7 @@
 
 //  Zbiranje IP naslovov
 
-if(!isset($_COOKIE['firstTime'])) {
+/* if(!isset($_COOKIE['firstTime'])) {
     $conn = new mysqli("localhost", "root", "", "martinpusar");
 
     if ($conn->connect_error) {
@@ -19,7 +19,7 @@ if(!isset($_COOKIE['firstTime'])) {
     $conn->close();
 
     setcookie('firstTime', 'no', time() + (86400 * 30), "/");
-}
+} */
 
 //  Yeet to the portfolio
 
