@@ -3,13 +3,17 @@
 
 
 <section id="section_landing">
+	<p id="faded_text"></p>
 
-	<div id="intro_container">
-		<p id="intro_name">Martin Pusar</p>
-		<p id="intro_subscript">Izdelava spletnih strani | <i style="font-size: 70%"><u>spletna stran je še v izdelavi</u></i></p>
+	<div id="intro_text_container">
+		<div id="intro_text_wrapper">
+			<p id="intro_text1">Martin Pusar</p>
+			<p id="intro_text2">Izdelava spletnih strani</p>
+			<p id="intro_text3">WordPress strani in teme, prav tako kot <br> HTML - CSS - JavaScript strani po meri!</p>
+		</div>
 	</div>
 
-	<img src="media/vector1.svg" alt="Vector" id="landing_vector">
+	<img src="media/portret.svg" alt="Portret">
 </section>
 
 
@@ -50,7 +54,7 @@
 				<input type="text" class="contact-input" name="subject"><br>
 
 				<label for="message">sporočilo*:</label><br>
-				<textarea id="contact_message" name="message" rows="6" cols="50" required></textarea> 
+				<textarea id="contact_message" name="message" rows="6" cols="50" required></textarea>
 
 				<button type="submit" value="submit">Pošlji</button>
 			</form>

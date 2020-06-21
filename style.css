@@ -1067,35 +1067,43 @@ button {
 	background: linear-gradient(0deg, rgba(27, 27, 29, 1) 0%, rgba(21, 21, 23, 1) 100%);
 }
 
-#intro_container {
-	box-sizing: border-box;
-	margin-left: 17%;
-	padding-bottom: 100px;
-	height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: baseline;
-	flex-direction: column;
-}
-
-#intro_name {
-	color: var(--primary-color);
-	margin: 0;
-	font-family: 'Roboto Slab', serif;
-	font-weight: 500;
-	font-size: 4.5em;
-}
-
-#intro_subscript {
-	font-size: 1.7em;
-	color: #889083;
-}
-
-#landing_vector {
-	width: 100%;
+#intro_text_container {
 	position: absolute;
 	bottom: 0;
+	width: 100%;
 }
+#intro_text_wrapper {
+	width: 70%;
+	margin: 0 auto 20vh;
+	font-family: 'Kanit', sans-serif;
+}
+#intro_text1 {
+	font-family: 'Lexend Tera', sans-serif;
+	color: var(--text-color);
+	opacity: 0.4;
+	font-size: 1em;
+	margin: 0;
+	text-transform: uppercase;
+}
+#intro_text2 {
+	color: var(--text-color);
+	font-size: 4em;
+	font-family: 'Kanit';
+	margin: 0;
+}
+#intro_text3 {
+	color: var(--text-color);
+	font-size: 1.4em;
+	font-family: 'Kanit';
+	margin: 0;
+	opacity: .5;
+}
+
+
+
+
+
+
 
 #services_section {
 	box-sizing: border-box;
