@@ -23,7 +23,7 @@
 	<header class="site-header">
 
 		<div class="site-branding">
-			<a href="portfolio.php" class="logo"><img src="media/logo.svg" alt="Logo"></a>
+			<a href="portfolio.php" class="logo">Martin Pusar</a>
 		</div>
 
 		<nav class="main-navigation">

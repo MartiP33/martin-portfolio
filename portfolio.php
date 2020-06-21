@@ -8,7 +8,8 @@
 	<div id="intro_text_wrapper">
 		<p id="intro_text1">Martin Pusar &nbsp; | &nbsp; <i style="font-size: 70%">spletna stran je še v izdelavi</i></p>
 		<p id="intro_text2">Izdelava spletnih strani</p>
-		<p id="intro_text3">WordPress strani in teme, prav tako kot HTML - CSS - JavaScript strani po meri!</p>
+		<p id="intro_text3">WordPress strani in teme, prav tako kot HTML - CSS - JavaScript strani po meri! Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, quam.</p>
+		<p><a href="mailto: martin@martinpusar.si" id="intro_text4">Kontaktiraj me</a></p>
 	</div>
 
 	<img src="media/portret.svg" alt="Portret" id="portret">
@@ -18,17 +19,25 @@
 <section id="services_section">
 	<h1>Kaj potrebujete?</h1>
 	<div class="services-container">
-		<div id="left_service" class="not-active">
-			<h2>WORDPRESS</h2>
-			<ol class="no-margin">
-				<li><b> &nbsp; Celotne spletne strani:</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, porro.</li>
-				<li><b> &nbsp; WordPress teme po meri:</b> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti, rerum!</li>
-			</ol>
+		<div class="service-outer not-active">
+			<div class="service-inner" id="service_inner_left">
+				<div class="service-description">
+					<h2>WORDPRESS</h2>
+					<ol class="no-margin">
+						<li><b> &nbsp; Celotne spletne strani:</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, porro.</li>
+						<li><b> &nbsp; WordPress teme po meri:</b> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti, rerum!</li>
+					</ol>
+				</div>
+			</div>
 		</div>
 
-		<div id="right_service" class="not-active">
-			<h2>HTML - CSS - JavaScript</h2>
-			<p>Spletne strani osredotočene na dizajn, s popolnih nadzorom nad vsebino vsebino in fukncionalnostjo.</p>
+		<div class="service-outer not-active">
+			<div class="service-inner" id="service_inner_right">
+				<div class="service-description">
+					<h2>HTML - CSS - JavaScript</h2>
+					<p>Spletne strani osredotočene na dizajn, s popolnih nadzorom nad vsebino vsebino in fukncionalnostjo.</p>
+				</div>
+			</div>
 		</div>
 	</div>
 
