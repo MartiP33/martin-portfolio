@@ -1,2 +1,2 @@
 # martin-portfolio
-Moja spletna stran basically
+My personal portfolio

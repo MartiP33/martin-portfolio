@@ -3,17 +3,15 @@
 
 
 <section id="section_landing">
-	<p id="faded_text"></p>
+	<p id="faded_text">Martin Pusar</p>
 
-	<div id="intro_text_container">
-		<div id="intro_text_wrapper">
-			<p id="intro_text1">Martin Pusar</p>
-			<p id="intro_text2">Izdelava spletnih strani</p>
-			<p id="intro_text3">WordPress strani in teme, prav tako kot <br> HTML - CSS - JavaScript strani po meri!</p>
-		</div>
+	<div id="intro_text_wrapper">
+		<p id="intro_text1">Martin Pusar &nbsp; | &nbsp; <i style="font-size: 70%">spletna stran je še v izdelavi</i></p>
+		<p id="intro_text2">Izdelava spletnih strani</p>
+		<p id="intro_text3">WordPress strani in teme, prav tako kot HTML - CSS - JavaScript strani po meri!</p>
 	</div>
 
-	<img src="media/portret.svg" alt="Portret">
+	<img src="media/portret.svg" alt="Portret" id="portret">
 </section>
 
 
