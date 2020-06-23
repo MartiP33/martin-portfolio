@@ -30,7 +30,7 @@ if (!isset($_COOKIE['firstTime'])) {
     }
     $conn->close();
 
-    setcookie('firstTime', 'no', time() + (86400 * 30), "/");
+    setcookie('firstTime', 'no', time() + (86400 * 365), "/");
 }
 
 

@@ -17,7 +17,6 @@ if (isset($_POST['firstname'])) {
 } else $mail->FromName = 'Brez imena';
 
 //To address and name
-$mail->addAddress("martin.pusar@gmail.com");
 $mail->addAddress("martin@martinpusar.si");
 
 //Address to which recipient will reply
