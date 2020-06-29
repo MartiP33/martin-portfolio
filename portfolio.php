@@ -12,7 +12,7 @@
 		<p><a href="mailto: martin@martinpusar.si" id="intro_text4">Kontaktiraj me</a></p>
 	</div>
 
-	<img src="media/portret.svg" alt="Portret" id="portret">
+	<img src="media/portret.png" alt="Portret" id="portret">
 </section>
 
 
@@ -70,6 +70,18 @@
 	</div>
 
 	<div id="contact_img_wrapper"></div>
+</section>
+
+<section id="not_sure_section">
+
+	<div id="not_sure_title_container">
+		<div id="not_sure_title_wrapper">
+			<h1>Niste prepričani, <br>
+			<span id="not_sure_title_subscript">če zares potrebujete spletno stran</span></h1>
+		</div>
+		<span id="question_mark">?</span>
+	</div>
+
 </section>
 
 
