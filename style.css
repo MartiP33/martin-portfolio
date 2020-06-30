@@ -1078,7 +1078,7 @@ button {
 	text-align: center;
 	font-family: 'Poppins', sans-serif;
 	font-weight: 1000;
-	color: rgba(255,255,2555,0.01);
+	color: rgba(255,255,2555,0.007);
 	font-size: 15vw;
 	position: absolute;
 	top: 10vh;
@@ -1324,7 +1324,7 @@ button {
 
 #not_sure_title_wrapper h1 {
 	font-size: 3vw;
-	line-height: 70px;
+	line-height: 60px;
 	margin-right: 20px;
 }
 
@@ -1334,7 +1334,7 @@ button {
 
 #question_mark {
 	top: -10px;
-	font-size: 9vw;
+	font-size: 8.5vw;
 }
 
 /* Footer
