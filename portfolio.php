@@ -8,7 +8,7 @@
 	<div id="intro_text_wrapper">
 		<p id="intro_text1">Martin Pusar &nbsp; | &nbsp; <i style="font-size: 70%">spletna stran je še v izdelavi</i></p>
 		<p id="intro_text2">Izdelava spletnih strani</p>
-		<p id="intro_text3">WordPress strani in teme, prav tako kot HTML - CSS - JavaScript strani po meri! Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, quam.</p>
+		<p id="intro_text3">Vsaka spletna stran mora biti prilagojena podjetju ki ga predstavlja, da doseže njen glavni cilj in sicer da pretvori obiskovalca v stranko. To zahteva raziskovanje ciljnih skupin in namena, da se temu lahko prilagodi tudi dizajn in seveda vsebina.</p>
 		<p><a href="mailto: martin@martinpusar.si" id="intro_text4">Kontaktiraj me</a></p>
 	</div>
 
@@ -77,11 +77,12 @@
 	<div id="not_sure_title_container">
 		<div id="not_sure_title_wrapper">
 			<h1>Niste prepričani, <br>
-			<span id="not_sure_title_subscript">če zares potrebujete spletno stran</span></h1>
+				<span id="not_sure_title_subscript">če zares potrebujete spletno stran</span></h1>
 		</div>
 		<span id="question_mark">?</span>
 	</div>
 
+	<p>Če vaše podjetje še nima spletne strani imate sedaj priložnost, da to napako popravite! Spletna predstava podjetja je v današnjem času pomembnejša kot še nikoli prej, saj strankam pove da je podjetje profesionalno in ugledno.</p>
 </section>
 
 

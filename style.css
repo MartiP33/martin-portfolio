@@ -1067,7 +1067,6 @@ button {
 	height: 100vh;
 	position: relative;
 	z-index: 2;
-
 	background: rgb(20, 20, 22);
 	background: linear-gradient(90deg, rgba(20, 20, 22, 1) 0%, rgba(0, 0, 0, 1) 70%);
 }
@@ -1078,7 +1077,7 @@ button {
 	text-align: center;
 	font-family: 'Poppins', sans-serif;
 	font-weight: 1000;
-	color: rgba(255,255,2555,0.007);
+	color: rgba(255, 255, 2555, 0.007);
 	font-size: 15vw;
 	position: absolute;
 	top: 10vh;
@@ -1088,7 +1087,7 @@ button {
 #intro_text_wrapper {
 	box-sizing: border-box;
 	width: 50%;
-	padding: 0 0 15vh 15%;
+	padding: 0 0 10vh 15%;
 	font-family: 'Kanit', sans-serif;
 	position: absolute;
 	bottom: 0;
@@ -1309,6 +1308,7 @@ button {
 	width: 100%;
 	height: 100vh;
 	margin-top: 20vh;
+	padding: 0 500px;
 }
 
 #not_sure_title_container {
