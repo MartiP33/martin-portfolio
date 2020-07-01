@@ -42,7 +42,7 @@
 		<nav class="main-navigation">
 			<ul class="nav-menu">
 				<li class="menu-item" id="portfolio"><a href="portfolio.php">Portfolio</a></li>
-				<li class="menu-item" id="o_meni"><a href="o-meni.php">O meni</a></li>
+				<!-- <li class="menu-item" id="o_meni"><a href="o-meni.php">O meni</a></li> -->
 			</ul>
 		</nav>
 	</header>

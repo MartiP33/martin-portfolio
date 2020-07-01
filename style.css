@@ -942,7 +942,10 @@ a:active {
 
 button {
 	text-decoration: none;
-	color: #333 !important;
+	color: #000 !important;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
 	padding: 4px 10px;
 	border-radius: 2px;
 	transition: 0.5s;
@@ -958,6 +961,13 @@ button {
 
 .no-margin li {
 	margin: 1em 0;
+}
+
+.under-title-hr {
+	text-align: center;
+	width: 70px;
+	background-color: var(--primary-color);
+	height: 4px;
 }
 
 /* Header
@@ -1184,13 +1194,17 @@ button {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.9);
+	background-color: var(--background-color);
 	opacity: 0;
 	transition: .3s;
 }
 
 .service-inner:hover::before {
 	opacity: 1;
+	border-left: 16px solid var(--primary-color);
+	border-right: 16px solid var(--primary-color);
+	border-top: 18px solid var(--primary-color);
+	border-bottom: 18px solid var(--primary-color);
 }
 
 #service_inner_left {
@@ -1214,6 +1228,13 @@ button {
 	display: block !important;
 	animation-name: fade-up;
 	animation-duration: .4s;
+
+	text-align: left;
+	font-size: 1em;
+}
+
+.service-description-active h2 {
+	font-size: 2em;
 }
 
 @keyframes fade-up {
@@ -1362,7 +1383,7 @@ button {
 
 #footer_call_to_action a {
 	text-decoration: none;
-	color: #333 !important;
+	color: #000 !important;
 	padding: 2px 5px;
 	border-radius: 2px;
 	transition: 0.5s;

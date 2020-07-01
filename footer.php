@@ -1,6 +1,6 @@
 <footer class="site-footer">
 	<div id="footer_call_to_action">
-		<p>Potrebujete spletno stran? Ne oklevajte, kontaktirajte me <a href="mailto: martin.pusar@gmail.com" class="btn-transition">tukaj</a></p>
+		<p>Potrebujete spletno stran? Ne oklevajte, <a href="mailto: martin.pusar@gmail.com" class="btn-transition">kontaktirajte me</a></p>
 	</div>
 
 	<div class="site-info">

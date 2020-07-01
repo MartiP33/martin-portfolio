@@ -8,7 +8,9 @@
 	<div id="intro_text_wrapper">
 		<p id="intro_text1">Martin Pusar &nbsp; | &nbsp; <i style="font-size: 70%">spletna stran je še v izdelavi</i></p>
 		<p id="intro_text2">Izdelava spletnih strani</p>
-		<p id="intro_text3">Vsaka spletna stran mora biti prilagojena podjetju ki ga predstavlja, da doseže njen glavni cilj in sicer da pretvori obiskovalca v stranko. To zahteva raziskovanje ciljnih skupin in namena, da se temu lahko prilagodi tudi dizajn in seveda vsebina.</p>
+		<p id="intro_text3">Vsaka spletna stran mora biti prilagojena podjetju ki ga predstavlja, da doseže njen glavni cilj in sicer da pretvori obiskovalca v stranko.
+			<!-- To zahteva raziskovanje ciljnih skupin in namena, da se temu lahko prilagodi tudi dizajn in seveda vsebina. -->
+		</p>
 		<p><a href="mailto: martin@martinpusar.si" id="intro_text4">Kontaktiraj me</a></p>
 	</div>
 
@@ -18,15 +20,14 @@
 
 <section id="services_section">
 	<h1>Kaj potrebujete?</h1>
+	<hr class="under-title-hr">
 	<div class="services-container">
 		<div class="service-outer not-active">
 			<div class="service-inner" id="service_inner_left">
 				<div class="service-description">
-					<h2>WORDPRESS</h2>
-					<ol class="no-margin">
-						<li><b> &nbsp; Celotne spletne strani:</b> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, porro.</li>
-						<li><b> &nbsp; WordPress teme po meri:</b> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti, rerum!</li>
-					</ol>
+					<h2>WordPress</h2>
+					<p>Polno-funkcionalne, vsebinsko-osredotočene spletne strani, ki odražajo podjetje v profesionalni luči.</p>
+					<p>Pred izdelavo se naredi raziskava o naravi podjetja in njegovi ciljni skupini, da se lahko obiskovalcu čim bolj približamo. Ključna je enostavnost uporabe, najsodobnejša funkcionalnost ter upoštevanje najboljih in najnovejših praks.</p>
 				</div>
 			</div>
 		</div>
@@ -35,7 +36,8 @@
 			<div class="service-inner" id="service_inner_right">
 				<div class="service-description">
 					<h2>HTML - CSS - JavaScript</h2>
-					<p>Spletne strani osredotočene na dizajn, s popolnih nadzorom nad vsebino vsebino in fukncionalnostjo.</p>
+					<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem spletne strani nadzor nad prav vsem. Medtem ko ta način ni primeren za kompleksne funkcionalnosti, je prav najboljša izbira za portfolie ali spletne strani, ki zahtevajo točno določen dizajn in efekte.</p>
+					<p>Ker ročno kodiranje vzame več časa, je ta opcija cenovno dražja.</p>
 				</div>
 			</div>
 		</div>
@@ -72,7 +74,7 @@
 	<div id="contact_img_wrapper"></div>
 </section>
 
-<section id="not_sure_section">
+<!-- <section id="not_sure_section">
 
 	<div id="not_sure_title_container">
 		<div id="not_sure_title_wrapper">
@@ -83,7 +85,7 @@
 	</div>
 
 	<p>Če vaše podjetje še nima spletne strani imate sedaj priložnost, da to napako popravite! Spletna predstava podjetja je v današnjem času pomembnejša kot še nikoli prej, saj strankam pove da je podjetje profesionalno in ugledno.</p>
-</section>
+</section> -->
 
 
 
