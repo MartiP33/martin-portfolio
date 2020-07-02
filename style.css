@@ -991,7 +991,7 @@ button {
 	transition: filter .2s;
 	text-decoration: none;
 	color: var(--text-color) !important;
-	font-size: 1.7em;
+	font-size: .8em;
 }
 
 .logo:hover {

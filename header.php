@@ -35,9 +35,9 @@
 <body>
 	<header class="site-header">
 
-		<div class="site-branding">
+		<h1 class="site-branding">
 			<a href="portfolio.php" class="logo">Martin Pusar</a>
-		</div>
+		</h1>
 
 		<nav class="main-navigation">
 			<ul class="nav-menu">
