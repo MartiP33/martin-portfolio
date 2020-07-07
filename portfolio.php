@@ -35,7 +35,7 @@
 		<div class="service-outer not-active">
 			<div class="service-inner" id="service_inner_right">
 				<div class="service-description">
-					<h2>HTML - CSS - JavaScript</h2>
+					<h2>HTML &	 CSS</h2>
 					<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem spletne strani nadzor nad prav vsem. Medtem ko ta način ni primeren za kompleksne funkcionalnosti, je prav najboljša izbira za portfolie ali spletne strani, ki zahtevajo točno določen dizajn in efekte.</p>
 					<p>Ker ročno kodiranje vzame več časa, je ta opcija cenovno dražja.</p>
 				</div>

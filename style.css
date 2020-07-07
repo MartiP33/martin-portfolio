@@ -1372,9 +1372,13 @@ button {
 		width: 450px;
 		height: 550px;
 	}
-
-
-
+	.service-inner:hover::before {
+		opacity: 1;
+		border-left: 14px solid var(--primary-color);
+		border-right: 14px solid var(--primary-color);
+		border-top: 16px solid var(--primary-color);
+		border-bottom: 16px solid var(--primary-color);
+	}
 	#contact_wrapper {
 		width: 600px;
 		height: 650px;
