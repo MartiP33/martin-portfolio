@@ -1225,21 +1225,32 @@ button {
 	transform: scale(1.05);
 }
 
+.service-grid {
+	display: grid;
+	grid-template-columns: 1fr 5fr;
+}
+
 .service-description {
 	display: none;
 	position: relative;
+	text-align: left;
+	font-size: 1em;
 }
 
 .service-description-active {
 	display: block !important;
 	animation-name: fade-up;
 	animation-duration: .4s;
-	text-align: left;
-	font-size: 1em;
 }
 
 .service-description-active h2 {
 	font-size: 2em;
+	text-align: center;
+}
+
+.plus-symbol {
+	color: #77dd77;
+	font-size: 3em;
 }
 
 @keyframes fade-up {

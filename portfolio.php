@@ -26,8 +26,19 @@
 			<div class="service-inner" id="service_inner_left">
 				<div class="service-description">
 					<h2>WordPress</h2>
-					<p>Polno-funkcionalne, vsebinsko-osredotočene spletne strani, ki odražajo podjetje v profesionalni luči.</p>
-					<p>Pred izdelavo se naredi raziskava o naravi podjetja in njegovi ciljni skupini, da se lahko obiskovalcu čim bolj približamo. Ključna je enostavnost uporabe, najsodobnejša funkcionalnost ter upoštevanje najboljih in najnovejših praks.</p>
+					<div class="service-grid">
+						<span class="plus-symbol">&#43;</span>
+						<p> Polno-funkcionalne, vsebinsko-osredotočene spletne strani
+							<!-- , ki odražajo podjetje v profesionalni luči -->
+						</p>
+						<span class="plus-symbol">&#43;</span>
+						<p>Pred izdelavo se naredi raziskava o naravi podjetja in njegovi ciljni skupini
+							<!-- , da se lahko obiskovalcu čim bolj približamo. -->
+						</p>
+						<span class="plus-symbol">&#43;</span>
+						<p>Ključna je enostavnost uporabe, najsodobnejša funkcionalnost ter upoštevanje najboljih in najnovejših praks </p>
+					</div>
+
 				</div>
 			</div>
 		</div>
@@ -35,9 +46,14 @@
 		<div class="service-outer not-active">
 			<div class="service-inner" id="service_inner_right">
 				<div class="service-description">
-					<h2>HTML &	 CSS</h2>
-					<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem spletne strani nadzor nad prav vsem. Medtem ko ta način ni primeren za kompleksne funkcionalnosti, je prav najboljša izbira za portfolie ali spletne strani, ki zahtevajo točno določen dizajn in efekte.</p>
-					<p>Ker ročno kodiranje vzame več časa, je ta opcija cenovno dražja.</p>
+					<h2>HTML & CSS</h2>
+					<div class="service-grid">
+						<span class="plus-symbol">&#43;</span>
+						<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem spletne strani nadzor nad prav vsem</p>
+						<span class="plus-symbol">&#43;</span>
+						<p>Primernejše za portfolie in spletne strani ki zahtevajo točno določen dizajn in efekte.</p>
+					</div>
+
 				</div>
 			</div>
 		</div>
