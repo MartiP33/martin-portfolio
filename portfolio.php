@@ -49,9 +49,9 @@
 					<h2>HTML & CSS</h2>
 					<div class="service-grid">
 						<span class="plus-symbol">&#43;</span>
-						<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem spletne strani nadzor nad prav vsem</p>
+						<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem nadzor nad prav vsem</p>
 						<span class="plus-symbol">&#43;</span>
-						<p>Primernejše za portfolie in spletne strani ki zahtevajo točno določen dizajn in efekte.</p>
+						<p>Primernejše za portfolie in za točno določen dizajn ter efekte.</p>
 					</div>
 
 				</div>
