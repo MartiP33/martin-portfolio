@@ -11,7 +11,8 @@
 		<p id="intro_text3">Vsaka spletna stran mora biti prilagojena podjetju ki ga predstavlja, da doseže njen glavni cilj in sicer da pretvori obiskovalca v stranko.
 			<!-- To zahteva raziskovanje ciljnih skupin in namena, da se temu lahko prilagodi tudi dizajn in seveda vsebina. -->
 		</p>
-		<p><a href="mailto: martin@martinpusar.si" id="intro_text4">Kontaktiraj me</a></p>
+		<p><a href="#storitve" class="action-btn">Ogled storitev</a>
+		<a href="#contact_section" class="action-btn">Kontaktiraj me</a></p>
 	</div>
 
 	<img src="media/portret.png" alt="Portret" id="portret">
@@ -19,7 +20,7 @@
 
 
 <section id="services_section">
-	<h1>Kaj potrebujete?</h1>
+	<h1 id="storitve">Kaj potrebujete?</h1>
 	<hr class="under-title-hr">
 	<div class="services-container">
 		<div class="service-outer not-active">
@@ -28,15 +29,16 @@
 					<h2>WordPress</h2>
 					<div class="service-grid">
 						<span class="plus-symbol">&#43;</span>
-						<p> Polno-funkcionalne, vsebinsko-osredotočene spletne strani
+						<p>Polno-funkcionalne, vsebinsko-osredotočene spletne strani
 							<!-- , ki odražajo podjetje v profesionalni luči -->
 						</p>
 						<span class="plus-symbol">&#43;</span>
-						<p>Pred izdelavo se naredi raziskava o naravi podjetja in njegovi ciljni skupini
+						<p>Kot lastnik slpetne strani imate nadzor nad vso vsebino, ki jo lahko kadarkoli dodajate/spreminjate
+							<!-- Pred izdelavo se naredi raziskava o cilju in ciljni skupini podjetja -->
 							<!-- , da se lahko obiskovalcu čim bolj približamo. -->
 						</p>
 						<span class="plus-symbol">&#43;</span>
-						<p>Ključna je enostavnost uporabe, najsodobnejša funkcionalnost ter upoštevanje najboljih in najnovejših praks </p>
+						<p>Ključna je enostavnost uporabe, najsodobnejša funkcionalnost ter upoštevanje najboljih in najsodobnejših praks</p>
 					</div>
 
 				</div>
@@ -51,7 +53,10 @@
 						<span class="plus-symbol">&#43;</span>
 						<p>Z dizajnom kot prioriteto, imamo z ročnim kodiranjem nadzor nad prav vsem</p>
 						<span class="plus-symbol">&#43;</span>
-						<p>Primernejše za portfolie in za točno določen dizajn ter efekte.</p>
+						<p>Primernejše za spletne strani ki zahtevajo točno določen dizajn oz. efekte</p>
+						<span class="plus-symbol">&#43;</span>
+						<p>Medtem ko je vnašanje velike količine vsebine težje, je zato poudarek na predstavitvi le-te na najboljši možen način
+						</p>
 					</div>
 
 				</div>
@@ -112,7 +117,7 @@
 <script>
 	$(function() {
 		$('#o_meni').removeClass('current-menu-item');
-		$('#portfolio').addClass('current-menu-item');
+		$('#domov').addClass('current-menu-item');
 	});
 </script>
 

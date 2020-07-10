@@ -17,6 +17,8 @@
 
 html {
 	scroll-behavior: smooth;
+	margin: 0;
+	padding: 0;
 }
 
 body {
@@ -25,6 +27,8 @@ body {
 	color: var(--text-color);
 	font-size: 16px;
 	overflow: auto;
+	margin: 0;
+	padding: 0;
 }
 
 @media only screen and (max-width: 1700px) {
@@ -148,11 +152,15 @@ hr {
 	align-items: center;
 }
 
-.main-navigation ul {
+.nav-menu {
 	list-style-type: none;
 }
 
-.main-navigation a {
+.nav-menu li {
+	display: inline-block;
+}
+
+.nav-menu a {
 	color: #fffafa;
 	text-transform: uppercase;
 	font-size: 1em;
@@ -275,15 +283,16 @@ hr {
 	opacity: .3;
 }
 
-#intro_text4 {
+.action-btn {
 	text-decoration: none;
 	color: var(--text-color);
 	font-size: 1.3em;
 	border-bottom: 3px solid rgba(255, 255, 255, 0);
 	transition: .5s;
+	margin-right: 1em;
 }
 
-#intro_text4:hover {
+.action-btn:hover {
 	border-bottom: 3px solid var(--text-color);
 }
 

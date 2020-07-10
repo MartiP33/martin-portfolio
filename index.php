@@ -40,6 +40,6 @@
 
 //  Yeet to the portfolio
 
-header('Location: portfolio.php');
+header('Location: domov.php');
 
 exit;
