@@ -309,7 +309,7 @@ hr {
 
 .action-btn {
 	text-decoration: none;
-	color: var(--primary-color);
+	color: var(--text-color);
 	font-size: 1.3em;
 	border-bottom: 3px solid rgba(255, 255, 255, 0);
 	transition: .5s;
@@ -317,7 +317,7 @@ hr {
 }
 
 .action-btn:hover {
-	border-bottom: 3px solid var(--primary-color);
+	border-bottom: 3px solid var(--text-color);
 }
 
 #portret {
